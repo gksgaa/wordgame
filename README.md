@@ -1,1 +1,2 @@
-wordgame is a game
+WORD SCRAMBLE GAME
+
