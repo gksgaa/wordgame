@@ -1,0 +1,103 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body{
+    display: flex;
+    column-gap: 200px;
+    align-items: center;
+    justify-content: center;
+    min-height:100vh;
+    background-color: thistle;/*#F89782*/
+}
+.container{
+    width: 550px;
+    border-radius: 50px;
+    background-color: rgb(198, 229, 239);
+    height: 400px;
+}
+.container h2{
+    text-align: center;
+    font-size: 25px;
+    font-weight:bold;
+    padding: 20px 25px;
+    border-bottom: 1px solid #931c1c;
+    color:purple;
+}
+.container .section{
+    margin: 30px 20px 35px;
+}
+.section .word{
+    font-size: 30px;
+    font-weight:550;
+    text-align: center;
+    letter-spacing: 28px;
+    text-transform: uppercase;
+    color: #931c1c;
+}
+.section .sentence{
+    margin:25px 0 20px;
+}
+.sentence p{
+    font-size:21px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left:160px;
+    color: rgb(31, 17, 217);
+   
+}
+
+/*
+.details .time{
+    float: right;
+}
+.time1 .time2{
+    float: right;
+}
+/*
+.details p b{
+    font-weight: 600;
+}
+    */
+.section input{
+    width: 100%;
+    height:50px;
+    outline:none;
+    font-size: 25px;
+    padding: 0 10px;
+    border-radius: 16px;
+    border: 1px solid #aaa;
+}
+#answer{
+    color: rgb(62, 72, 8);
+}
+.section .buttons{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 22px;
+    padding:30px ;
+   
+}
+.buttons button{
+    border: none;
+    outline:none;
+    color:#fff;
+    cursor:pointer;
+    padding:15px 10px;
+    font-size: 20px;
+    border-radius: 20px;
+    width: 180px;
+    /*width: calc(100% /2 - 10px);*/
+}
+
+.buttons .refresh{
+    background-color: rgb(192, 21, 192);
+}
+
+.buttons .check{
+    background-color: #239772;
+}
+    
