@@ -2,13 +2,16 @@
 
 const words = [
     {word: "aroma", hint: "Pleasing smell"},
+    {word: "happy", hint: " A feeling of contentment and joy"},
+    {word: "run", hint: "To move quickly on foot"},
     {word: "pepper", hint:"Salt's partner"},
     {word: "halt", hint:"put a stop to"},
     {word: "jump", hint:"Rise suddenly "},
+    {word: "talk", hint: "To communicate verbally"},
     {word: "shuffle", hint:"Mix cards up "},
     {word: "combine", hint: "Add; Mix"},
     {word: "chaos", hint:"Total disorder"},
-    {word: "labyrinth", hint: "Maze"},
+    {word: "small", hint: "Tiny or little"},
     {word: "disturb", hint:"Interrupt; upset "},
     {word: "shift", hint:"Move; Period of word"},
     {word: "machine", hint: "Device or appliance"},
