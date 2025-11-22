@@ -1,4 +1,5 @@
 WORD SCRAMBLE GAME
+
 This Git repository has the source code for Word Scramble Game. Developed using HTML, CSS, and JavaScript, this project offers a fun and educational way to challenge your word skills.
 
 Key Features:
